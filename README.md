@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/chldntjr1321?pet-id=1" width="1000" height="300"/>
 </a>
+<a href="https://github.com/chldntjr1321/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chldntjr1321" alt="WooSeok's GitHub stats" />
+</a>
