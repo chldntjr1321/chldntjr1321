@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![gitanimals](https://render.gitanimals.org/lines/chldntjr1321)](https://github.com/devxb/gitanimals)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/chldntjr1321?pet-id=1" width="1000" height="300"/>
+</a>
