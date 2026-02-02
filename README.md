@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=timeAuto&height=300&section=header&text=WooSeok's%20GitHub-nl-&desc=Frontend%20Developer&descAlign=15.5&descAlignY=23&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=60A5FA&fontColor=1E3A8A&height=300&section=header&text=WooSeok's%20GitHub-nl-&desc=Frontend%20Developer&descAlign=15.5&descAlignY=23&fontSize=90&animation=fadeIn" />
 
 <div align="center">
   <h1>✨ Tech Stack ✨</h1>
