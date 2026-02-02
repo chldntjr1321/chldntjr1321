@@ -32,24 +32,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
 </div>
 <br><br>
 
 <div align="center">
   <h1>📫 Contact 📫</h1>
+  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fchldntjr1321%2Fchldntjr1321?color=purple&label=Today+&size=small" alt="Today " /></a>
 </div>
+<br><br>
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/chldntjr1321">
-        <img src="https://helio-github-stats.vercel.app/api?username=chldntjr1321&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/chldntjr1321" width="500" height="250" alt="Gitanimals">
-      </a>     
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/chldntjr1321">
+    <img src="https://helio-github-stats.vercel.app/api?username=chldntjr1321&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="545" />
+  </a>
+  <a href="https://github.com/chldntjr1321">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chldntjr1321&theme=tokyonight" alt="Top Languages by Repo" width="300" />
+  </a>
+</div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/chldntjr1321" width="1000" height="300" alt="Gitanimals">
+</a>
