@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/chldntjr1321">
-    <img src="https://helio-github-stats.vercel.app/api?username=chldntjr1321&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="545" />
+    <img src="https://helio-github-stats.vercel.app/api?username=chldntjr1321&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="500" />
   </a>
   <a href="https://github.com/chldntjr1321">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chldntjr1321&theme=tokyonight" alt="Top Languages by Repo" width="300" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chldntjr1321&theme=tokyonight" alt="Top Languages by Repo" width="273" />
   </a>
 </div>
 <a href="https://github.com/devxb/gitanimals">
